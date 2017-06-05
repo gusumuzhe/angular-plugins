@@ -1,1 +1,1 @@
-# angular-plugins
+# Angular plugins
